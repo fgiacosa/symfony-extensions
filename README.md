@@ -2,7 +2,7 @@
 
 Extensions and Filters for Symfony
 
-# md5
+# Twig md5 Filter
 
 This filter is useful if you want to hash a string inside your twig template
 
